@@ -1,5 +1,5 @@
 {
-  "httpcode": 200,
+  "httpcode": "200",
   "response": [
     {
       "cateogory": "Cost effective",
